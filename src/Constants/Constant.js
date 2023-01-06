@@ -1,4 +1,4 @@
-export const BaseUrl = "https://Your_Domain_Name/wp-json/api/v1/";
+export const BaseUrl = "https://wathelp.com/wp-json/api/v1/";
 export const color = "#ffffff";
 export const primaryColor = "#ff5851";
 export const statusBarColor = "#cc4641";

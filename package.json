@@ -16,7 +16,7 @@
     "@react-native-community/datetimepicker": "^3.0.9",
     "@react-native-community/masked-view": "^0.1.11",
     "@react-native-community/netinfo": "^5.9.9",
-    "@react-native-community/toolbar-android": "0.1.0-rc.2",
+    "@react-native-community/toolbar-android": "0.2.1",
     "@react-native-community/viewpager": "^5.0.11",
     "accordion-collapse-react-native": "^0.4.0",
     "axios": "^0.21.0",

@@ -3,11 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
 
     <application
         android:usesCleartextTraffic="true"
         tools:targetApi="28"
-        tools:ignore="GoogleAppIndexingWarning">
+        tools:ignore="GoogleAppIndexingWarning"
+        tools:node="replace">
         <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false" />
     </application>
 </manifest>
