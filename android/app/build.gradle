@@ -256,7 +256,7 @@ dependencies {
     implementation 'com.pusher:push-notifications-android:1.4.4'
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
-
+    implementation project(':@react-native-community_netinfo')
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}") {
       exclude group:'com.facebook.fbjni'
     }
